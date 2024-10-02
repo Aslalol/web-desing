@@ -1,0 +1,71 @@
+.principal {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.texto {
+margin-top: 40px;
+width: 520px;
+height: 330px;
+top: 160px;
+left: 165px;
+margin-right: 47px;
+}
+.texto p {
+  font-family: "Roboto", sans-serif;
+  color: #6f7cb2;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: justify;
+}
+h1{
+  font-family: "Red Rose", sans-serif;
+  color: #091133;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+  text-align: left;
+}
+
+.foto {
+width: 492px;
+height: 1031px;
+margin-left: 47px;
+
+}
+.principal .botao a{
+  text-decoration: none;
+  text-align: center;
+  padding: 10px 50px;
+  font-size: 16px;
+  margin-top: 52px;
+}
+.botao{
+  display: flex;
+  margin-left: 0px;
+  margin-bottom: 20px;
+ justify-content: center;
+ font-family: "Roboto", sans-serif;
+ text-align: center;
+}
+.bot1 {
+
+ 
+  background-color: #111b47;
+  color: white;
+  border: 2px solid #111b47;
+  border-radius: 2px;
+  font-weight: 500;
+  margin-right: 15px;
+}
+.bot2 {
+ 
+  
+  border: 2px solid #000000;
+  border-radius: 2px;
+  color: #000000;
+  font-weight: 450;
+  margin-left: 15px;
+}
+
