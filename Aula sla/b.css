@@ -1,0 +1,39 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+
+button{
+    font-size: 20px;
+    background-color: rgb(63, 190, 63);
+    color: white;
+    border-radius: 20%;
+    height: 70px;
+    width: 250px;
+    border: 0px;
+}
+
+.pt1{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 5px;
+}
+
+.pt2{
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 40px;
+    justify-content: center;
+    
+}
+
+.pt3{
+    gap: 5px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+button:hover{
+    background-color: green;
+}
